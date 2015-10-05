@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compressao</string>
+    <string name="action_settings">Settings</string>
+    <string name="algoritmo">Este algoritmo de compressão sibstitui todas as sequências de 3 ou mais símbolos iguais por um conjunto de três símbolos (token) com a seguinte composição:\n! - Qualquer coisa char.\n- Número de vezes que o símbolo se repete.\n- Char repetido.\n\nEx: AAAA -> !4A</string>
+</resources>
